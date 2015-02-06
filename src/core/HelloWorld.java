@@ -16,11 +16,11 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String name="bunny bunny bunny bunny bunny bunny bunny ";
+        String name="bunny, bunny, bunny, bunny, bunny, bunny, bunny!";
         int num=7;
         for (int i=0; i<7;i++){
             
-            System.out.println("hello bunny bunny bunny bunny bunny bunny bunny"+name);
+            System.out.println("No bunnies, bunnies, bunnies, bunnies, bunnies, "+name);
         }
         
     } 
