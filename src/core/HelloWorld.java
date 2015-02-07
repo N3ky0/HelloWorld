@@ -20,7 +20,7 @@ public class HelloWorld {
         int num=7;
         for (int i=0; i<7;i++){
             
-            System.out.println("No bunnies, bunnies, bunnies, bunnies, bunnies, "+name);
+            System.out.println("Yes bunnies!, bunnies!, bunnies!, bunnies!, bunnies!, "+name);
         }
         
     } 
