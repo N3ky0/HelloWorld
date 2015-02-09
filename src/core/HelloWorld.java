@@ -23,6 +23,15 @@ public class HelloWorld {
             System.out.println("Yes bunnies!, bunnies!, bunnies!, bunnies!, bunnies!, "+name);
         }
         
+        kittyMath usagi=new kittyMath("red");
+        kittyMath bunny=new kittyMath(60,"white");
+        
+        usagi.movePacman("Up");
+        bunny.movePacman("Left");
+        
+        System.out.println("Usagi says " + usagi.sqaureNumber(10));
+        System.out.println("but bunny says " + bunny.sqaureNumber(25));
+        
     } 
 
     
